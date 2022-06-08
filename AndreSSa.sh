@@ -1,5 +1,5 @@
 #!/bin/bash 
-#Author:
+#Author: CollenMenezes
 #Give credits if u use any parte of this code.
 
 #Colors
