@@ -1,8 +1,8 @@
-![](https://files.catbox.moe/j0upnb.png)
+![](https://files.catbox.moe/dq6j2q.gif)
 
 # Description 📑
 **AndreSSa** It's a tool for fast converting text to uppercase. Created just to put into practice what I've been learning with **BASH!** <br>
-If you made it this far, don't forget to leave your heart ( ❤ ) so that more people can get here.
+If you made it this far, don't forget to leave your star ( ⭐ ) so that more people can get here.
 You can see more at: https://github.com/CollenMenezes/AndreSSa <br>
 Follow me at:
 
