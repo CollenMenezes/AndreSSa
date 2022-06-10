@@ -1,4 +1,5 @@
 ![](https://files.catbox.moe/dq6j2q.gif)
+![](https://files.catbox.moe/xe2kzc.svg)
 
 # Description 📑
 **AndreSSa** It's a tool for fast converting text to uppercase. Created just to put into practice what I've been learning with **BASH!** <br>
