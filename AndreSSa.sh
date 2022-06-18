@@ -1,6 +1,5 @@
 #!/bin/bash 
 #Author: CollenMenezes
-#Give credits if u use any parte of this code.
 
 #Colors
 R="\e[91m"
