@@ -1,3 +1,6 @@
+#AndreSSa Python version.
+#Author: CollenMenezes
+
 import os
 import time
 
